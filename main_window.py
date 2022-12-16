@@ -98,7 +98,7 @@ class HangmanWindow:
                                            width=35,
                                            height=1
                                            )
-        self._help_button = tk.Button(self._window, text='Підсказка',
+        self._help_button = tk.Button(self._window, text='Підказка',
                                         bg='#FFFF66',
                                         fg='#000000',
                                         font=('Arial', 8, 'bold'),
